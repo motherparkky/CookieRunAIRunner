@@ -15,6 +15,8 @@
 
 파이썬 모듈들을 요구함
 
+비쥬얼스튜디오를 사용해주세요.
+
 
 
 
@@ -38,3 +40,5 @@ Only tested in 1920X1080 BlueStacks App Player, so you can replace the png in th
 
 
 Required some python modules
+
+Please use Visual Studio 2022
